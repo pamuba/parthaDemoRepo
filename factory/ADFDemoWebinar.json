@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoWebinar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a1497f5-43c4-42a4-8530-4d0bcb4aa396",
+		"tenantId": "cc6b2eea-c864-4839-85f5-94736facc3be"
+	}
+}
